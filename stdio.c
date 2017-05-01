@@ -4,7 +4,7 @@
 #include "string.h"
 #include "stdarg.h"
 #include "ctype.h"
-#include "syscalls.h"
+#include "../kernel/libs/syscalls.h"
 
 char *_itoa(int, char *, int, int);
 char *_ltoa(long, char *, int, int);
