@@ -2,7 +2,6 @@
 #include "ctype.h"
 #include "string.h"
 #include "stdint.h"
-#include "math.h"
 
 const char *base_digits = "0123456789abcdefghijklmnopqrstuvwxyz";
 
